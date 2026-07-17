@@ -16,7 +16,7 @@ I have made the following layouts under 2 weeks after learning the required proc
 2)NAND GATE
 3)AND GATE
 4)NOR GATE
-5)XNOR GATE
+5)XNOR GATE(This file being my final project build)
 
 I have made the Inverter and NAND and NOR from transitor level and then combined and routed on them to make AND and XNOR. Both of them Had a different set problems and different use of layers to some extent. To account for the problems into XNOR, one has to ensure there are no DRC and LVS problems in all the basic agtes and if there is a problem, say in inverter, u have to come adjusting in all of them again,in some cases , completely changing the spacings, areas and layer sizes in all of the gates used.
 
